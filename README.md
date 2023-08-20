@@ -16,7 +16,7 @@ Dedicated Client Service Analyst skilled in data analysis &amp; policy developme
 - 💬 Ask me about **Python, SQL, Power BI, Excel**
 
 - 📫 How to reach me <p>My profile in [LinkedIn](https://www.linkedin.com/in/sairam-vemula-5bb065170)</p>
-                      <p> My website [sairamvemula.com](https://Sairamvemula.com)</p>
+                      <p> My website [sairamvemula.com](https://sites.google.com/view/sairamvemula/home)</p>
                       <p> My technical blogs in [Medium](https://medium.com)</p>
 
 
