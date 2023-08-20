@@ -17,8 +17,6 @@ Dedicated Client Service Analyst skilled in data analysis &amp; policy developme
 
 - 📫 How to reach me <p>My profile in [LinkedIn](https://www.linkedin.com/in/sairam-vemula-5bb065170)</p>
                       <p> My website [sairamvemula.com](https://sites.google.com/view/sairamvemula/home)</p>
-                      <p> My technical blogs in [Medium](https://medium.com)</p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
